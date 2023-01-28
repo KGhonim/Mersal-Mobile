@@ -1,7 +1,5 @@
 FROM openjdk:18-jdk-slim
 
-LABEL maintainer "Amr Salem"
-
 ENV DEBIAN_FRONTEND noninteractive
 
 WORKDIR /
